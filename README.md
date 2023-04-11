@@ -1,4 +1,6 @@
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bear%20Nyong%20&fontSize=90)
+
 ## Bear_nyong 👋 <br/>
 
 #### 안녕하세요! 저는 코드를 쌓아갈 개발자 고민영 입니다 :-)
