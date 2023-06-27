@@ -1,6 +1,6 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bear%20Nyong%20&fontSize=80)-->
-![header](https://capsule-render.vercel.app/api?type=$waving&color=green&height=$200&section=header&text=$HelloWorld!%20!🥳&fontSize=$50&animation=$twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=CFE5B8&height=350&section=header&text=🧸Bear_nyong🧸&fontSize=75)
 
 ## Bear_nyong 👋 <br/>
 
