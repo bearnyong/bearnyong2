@@ -7,6 +7,7 @@
 ## Bear_nyong 👋 <br/>
 
 #### 안녕하세요! 저는 코드를 쌓아갈 개발자 고민영 입니다 :-)
+<br><br><br><br>
 
 
 <!--https://github.com/Ileriayo/markdown-badges-->
