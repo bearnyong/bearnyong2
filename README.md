@@ -4,9 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=598036&height=230&section=header&text=🧸Bear_nyong🧸&&fontColor=EAF2E4&fontSize=75)
 
 
-## Bear_nyong 👋 <br/>
+<!--## Bear_nyong 👋 <br/>-->
 
-#### 안녕하세요! 저는 코드를 쌓아갈 개발자 고민영 입니다 :-)
+<h2 align="center"> 안녕하세요! 저는 코드를 쌓아갈 개발자 고민영 입니다 :-) </h2>
 <br>
 
 
