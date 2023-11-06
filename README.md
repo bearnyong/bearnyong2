@@ -3,7 +3,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=A2BE88&height=230&section=header&text=🧸Bear_nyong🧸&fontSize=75)-->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=598036&height=230&section=header&text=🧸Bear_nyong🧸&&fontColor=EAF2E4&fontSize=75)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A2C69F&title_bg=%2387A285&icon=waze.svg&icon_color=%23FFFFFF&title=hello+%3A%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[![조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbearnyong%2Fhit-counter&count_bg=%23A2C69F&title_bg=%2387A285&icon= waze.svg&icon_color=%23FFFFFF&title=hello+%3A%29&edge_plat=false)](https://hits.seeyoufarm.com)
 
 
 <!--## Bear_nyong 👋 <br/>-->
