@@ -1,16 +1,40 @@
-
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Bear%20Nyong%20&fontSize=80)-->
 <!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=A2BE88&height=230&section=header&text=🧸Bear_nyong🧸&fontSize=75)-->
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=598036&height=230&section=header&text=🧸Bear_nyong🧸&&fontColor=EAF2E4&fontSize=75)
 
+<!--![header](https://capsule-render.vercel.app/api?type=cylinder&color=598036&height=230&section=header&text=🧸Bear_nyong🧸&&fontColor=EAF2E4&fontSize=75)-->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🧸Bear_nyong🧸&fontSize=75&fontColor=598036)
+
+<!--https://hits.seeyoufarm.com/-->
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbearnyong&count_bg=%2396BC90&title_bg=%23657663&icon=github.svg&icon_color=%23FFFFFF&title=hello+%3A-%29&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+
+
+<!--
+https://github.com/mazassumnida/mazassumnida
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=komy1)](https://solved.ac/komy1)
+-->
+
+<!--
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bearnyong" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bearnyong&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+-->
+
+
 
 
 <!--## Bear_nyong 👋 <br/>-->
-
-<h2 align="center"> 안녕하세요! 저는 코드를 쌓아갈 개발자 고민영 입니다 :-) </h2>
-<br>
-
 
 <!--https://github.com/Ileriayo/markdown-badges-->
 ## 📋 Languages <br/>
